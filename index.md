@@ -1,8 +1,7 @@
-# Inspiration to 20 minute chefs
-#### Easy 5 ingredient
-#### 20 minute dishes
-
-
----
-title: Welcome to my blog! 20 Minute Chef. Learn how to cook. 
----
+# The 20 Minute Chef🥫
+* 20 minute dishes
+* Easy 5 ingredient meals
+* Built for someone on the go 
+_____
+Quick Inspiration
+_____
